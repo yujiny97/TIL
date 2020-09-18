@@ -1,5 +1,5 @@
 #TIL
-구글드라이브 url: https://docs.google.com/document/d/1y_Q2D68DbhvQI3oFcnECGYFJjDCnCEy0w1BzLnrC6Ws/edit
+구글드라이브 url: https://docs.google.com/document/d/1y_Q2D68DbhvQI3oFcnECGYFJjDCnCEy0w1BzLnrC6Ws/edit?usp=sharing
 
 java 문법
 
