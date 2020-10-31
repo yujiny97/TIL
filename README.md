@@ -1,7 +1,8 @@
-#TIL
-구글드라이브 url: https://docs.google.com/document/d/1y_Q2D68DbhvQI3oFcnECGYFJjDCnCEy0w1BzLnrC6Ws/edit?usp=sharing  
+# TIL (Today I Learn)
 
-java 문법
+## java 문법
+
+구글드라이브 url: https://docs.google.com/document/d/1y_Q2D68DbhvQI3oFcnECGYFJjDCnCEy0w1BzLnrC6Ws/edit?usp=sharing  
 
 헤더
 ```java
@@ -107,5 +108,5 @@ while(it.hasNext()){
 ```  
 
 
-# 컴퓨터 구조랑 운영체제 정리해보기
+## 컴퓨터 구조랑 운영체제 정리해보기
 구글 드라이브 url: https://docs.google.com/document/d/1ZxyhHakIMyg7AkPk_tgC539Mc4YafpQvxnDiQpTtDxk/edit?usp=sharing
