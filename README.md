@@ -1,5 +1,5 @@
 #TIL
-구글드라이브 url: https://docs.google.com/document/d/1y_Q2D68DbhvQI3oFcnECGYFJjDCnCEy0w1BzLnrC6Ws/edit?usp=sharing
+구글드라이브 url: https://docs.google.com/document/d/1y_Q2D68DbhvQI3oFcnECGYFJjDCnCEy0w1BzLnrC6Ws/edit?usp=sharing  
 
 java 문법
 
@@ -104,4 +104,8 @@ while(it.hasNext()){
 	System.out.println(“it:”,val);//값 꺼내기
 }
 
-```
+```  
+
+
+# 컴퓨터 구조랑 운영체제 정리해보기
+구글 드라이브 url: https://docs.google.com/document/d/1ZxyhHakIMyg7AkPk_tgC539Mc4YafpQvxnDiQpTtDxk/edit?usp=sharing
